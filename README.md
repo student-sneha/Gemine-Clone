@@ -1,2 +1,7 @@
 # Gemine--Clone
-This is a AI Gemine Clone using React.
+This is an AI Gemine Clone using React.
+
+## Setup
+- Clone the repository  
+- Run `npm install` to install dependencies  
+- Use `npm run dev` to start the development server  
